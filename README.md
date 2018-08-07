@@ -4,7 +4,7 @@
 work with any existing JSON-based configuration, serving values based on object path (`'/a/b/c'` translates to ``a.b.c``). In addition,
 **confidence** defines special $-prefixed keys used to filter values for a given criteria.
 
-[![Build Status](https://travis-ci.org/hapijs/confidence.svg?branch=master)](https://travis-ci.org/hapijs/confidence) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--confidence.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://travis-ci.org/hapijs/confidence.svg?branch=master)](https://travis-ci.org/hapijs/confidence) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--confidence.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/hapijs--confidence.svg)](https://www.guardrails.io)
 
 Lead Maintainer: [Patrick Kettner](https://github.com/patrickkettner)
 
